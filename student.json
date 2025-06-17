@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "fullName": "Alice Johnson",
+    "grade": "A",
+    "score": 91,
+    "status": "Passed"
+  },
+  {
+    "id": 2,
+    "fullName": "Bob Smith",
+    "grade": "B",
+    "score": 78,
+    "status": "Needs Improvement"
+  },
+  {
+    "id": 4,
+    "fullName": "Diana Prince",
+    "grade": "A",
+    "score": 88,
+    "status": "Passed"
+  },
+  {
+    "id": 5,
+    "fullName": "Ethan Hunt",
+    "grade": "B",
+    "score": 82,
+    "status": "Passed"
+  }
+]

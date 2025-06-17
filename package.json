@@ -1,7 +1,7 @@
 {
   "name": "json-operation-with-rest-api",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,8 +10,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "express": "^5.1.0",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammedkaif21/demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mohammedkaif21/demo/issues"
+  },
+  "homepage": "https://github.com/Mohammedkaif21/demo#readme",
+  "description": ""
 }
